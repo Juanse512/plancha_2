@@ -1,0 +1,2 @@
+-Una de las formas de obtener el codigo de salida es corriendo el programa con gdb hasta llegar a la ultima linea y leer el registro al, el cual contendra el codigo de retorno
+-La otra forma es ejecutando el programa normalmente y luego correr 'echo $?' en la consola, lo que dara el codigo de salida del ultimo programa ejecutado

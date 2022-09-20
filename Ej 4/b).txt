@@ -1,0 +1,1 @@
+El codigo de salida se guarda en al, que tiene 8 bits, algunos items necesitan mas de 8 bits por lo que se va a necesitar gdb para poder evaluarlos
